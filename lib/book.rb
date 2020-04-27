@@ -6,7 +6,7 @@ class Book
     @title = title
   end
   
-  # Methods commented out, are made redundant due to attr_reader and attr_accessor
+  # Methods commented out, are made redundant due to attr_reader and attr_accessor.
   # def title
   #   @title
   # end
